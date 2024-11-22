@@ -1,0 +1,10 @@
+{
+  "id": "base1-20",
+  "nom": "Electabuzz",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Rare",
+  "images": "https://images.pokemontcg.io/base1/20_hires.png"
+}

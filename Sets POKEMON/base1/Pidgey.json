@@ -1,0 +1,10 @@
+{
+  "id": "base1-57",
+  "nom": "Pidgey",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Common",
+  "images": "https://images.pokemontcg.io/base1/57_hires.png"
+}

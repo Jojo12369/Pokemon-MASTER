@@ -1,0 +1,10 @@
+{
+  "id": "base1-49",
+  "nom": "Drowzee",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Common",
+  "images": "https://images.pokemontcg.io/base1/49_hires.png"
+}

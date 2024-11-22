@@ -1,0 +1,10 @@
+{
+  "id": "base1-3",
+  "nom": "Chansey",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Rare Holo",
+  "images": "https://images.pokemontcg.io/base1/3_hires.png"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "base1-39",
+  "nom": "Porygon",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Uncommon",
+  "images": "https://images.pokemontcg.io/base1/39_hires.png"
+}

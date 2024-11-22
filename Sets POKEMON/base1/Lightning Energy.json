@@ -1,0 +1,9 @@
+{
+  "id": "base1-100",
+  "nom": "Lightning Energy",
+  "supertype": "Energy",
+  "subtypes": [
+    "Basic"
+  ],
+  "images": "https://images.pokemontcg.io/base1/100_hires.png"
+}

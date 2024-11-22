@@ -1,0 +1,10 @@
+{
+  "id": "base1-48",
+  "nom": "Doduo",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Common",
+  "images": "https://images.pokemontcg.io/base1/48_hires.png"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "base1-37",
+  "nom": "Nidorino",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "rarete": "Uncommon",
+  "images": "https://images.pokemontcg.io/base1/37_hires.png"
+}

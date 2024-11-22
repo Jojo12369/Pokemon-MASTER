@@ -1,0 +1,10 @@
+{
+  "id": "base1-5",
+  "nom": "Clefairy",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Rare Holo",
+  "images": "https://images.pokemontcg.io/base1/5_hires.png"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "base1-31",
+  "nom": "Jynx",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Uncommon",
+  "images": "https://images.pokemontcg.io/base1/31_hires.png"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "base1-43",
+  "nom": "Abra",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Common",
+  "images": "https://images.pokemontcg.io/base1/43_hires.png"
+}

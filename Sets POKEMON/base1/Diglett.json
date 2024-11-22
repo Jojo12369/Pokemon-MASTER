@@ -1,0 +1,10 @@
+{
+  "id": "base1-47",
+  "nom": "Diglett",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Common",
+  "images": "https://images.pokemontcg.io/base1/47_hires.png"
+}

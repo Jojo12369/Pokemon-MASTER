@@ -1,0 +1,10 @@
+{
+  "id": "base1-56",
+  "nom": "Onix",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Common",
+  "images": "https://images.pokemontcg.io/base1/56_hires.png"
+}

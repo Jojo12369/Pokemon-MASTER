@@ -1,0 +1,10 @@
+{
+  "id": "base1-7",
+  "nom": "Hitmonchan",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Rare Holo",
+  "images": "https://images.pokemontcg.io/base1/7_hires.png"
+}

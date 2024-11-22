@@ -1,0 +1,9 @@
+{
+  "id": "base1-101",
+  "nom": "Psychic Energy",
+  "supertype": "Energy",
+  "subtypes": [
+    "Basic"
+  ],
+  "images": "https://images.pokemontcg.io/base1/101_hires.png"
+}

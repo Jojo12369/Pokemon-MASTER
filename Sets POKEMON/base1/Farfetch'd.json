@@ -1,0 +1,10 @@
+{
+  "id": "base1-27",
+  "nom": "Farfetch'd",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Uncommon",
+  "images": "https://images.pokemontcg.io/base1/27_hires.png"
+}

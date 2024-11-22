@@ -1,0 +1,10 @@
+{
+  "id": "base1-28",
+  "nom": "Growlithe",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Uncommon",
+  "images": "https://images.pokemontcg.io/base1/28_hires.png"
+}

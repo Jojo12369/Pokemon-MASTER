@@ -1,0 +1,10 @@
+{
+  "id": "base1-96",
+  "nom": "Double Colorless Energy",
+  "supertype": "Energy",
+  "subtypes": [
+    "Special"
+  ],
+  "rarete": "Uncommon",
+  "images": "https://images.pokemontcg.io/base1/96_hires.png"
+}

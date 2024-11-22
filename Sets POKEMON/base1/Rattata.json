@@ -1,0 +1,10 @@
+{
+  "id": "base1-61",
+  "nom": "Rattata",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Common",
+  "images": "https://images.pokemontcg.io/base1/61_hires.png"
+}

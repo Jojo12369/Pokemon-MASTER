@@ -1,0 +1,10 @@
+{
+  "id": "base1-45",
+  "nom": "Caterpie",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Common",
+  "images": "https://images.pokemontcg.io/base1/45_hires.png"
+}

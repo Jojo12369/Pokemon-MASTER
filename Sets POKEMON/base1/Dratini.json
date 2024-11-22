@@ -1,0 +1,10 @@
+{
+  "id": "base1-26",
+  "nom": "Dratini",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Uncommon",
+  "images": "https://images.pokemontcg.io/base1/26_hires.png"
+}

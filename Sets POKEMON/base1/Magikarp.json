@@ -1,0 +1,10 @@
+{
+  "id": "base1-35",
+  "nom": "Magikarp",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Uncommon",
+  "images": "https://images.pokemontcg.io/base1/35_hires.png"
+}

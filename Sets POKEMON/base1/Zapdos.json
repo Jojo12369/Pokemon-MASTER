@@ -1,0 +1,10 @@
+{
+  "id": "base1-16",
+  "nom": "Zapdos",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Rare Holo",
+  "images": "https://images.pokemontcg.io/base1/16_hires.png"
+}

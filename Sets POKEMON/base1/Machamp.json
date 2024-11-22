@@ -1,0 +1,10 @@
+{
+  "id": "base1-8",
+  "nom": "Machamp",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "rarete": "Rare Holo",
+  "images": "https://images.pokemontcg.io/base1/8_hires.png"
+}

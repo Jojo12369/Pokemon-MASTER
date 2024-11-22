@@ -1,0 +1,9 @@
+{
+  "id": "base1-102",
+  "nom": "Water Energy",
+  "supertype": "Energy",
+  "subtypes": [
+    "Basic"
+  ],
+  "images": "https://images.pokemontcg.io/base1/102_hires.png"
+}

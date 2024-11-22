@@ -1,0 +1,10 @@
+{
+  "id": "base1-36",
+  "nom": "Magmar",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "rarete": "Uncommon",
+  "images": "https://images.pokemontcg.io/base1/36_hires.png"
+}

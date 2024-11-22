@@ -1,0 +1,10 @@
+{
+  "id": "base1-13",
+  "nom": "Poliwrath",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "rarete": "Rare Holo",
+  "images": "https://images.pokemontcg.io/base1/13_hires.png"
+}

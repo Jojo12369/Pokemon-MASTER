@@ -1,0 +1,10 @@
+{
+  "id": "base1-64",
+  "nom": "Starmie",
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "rarete": "Common",
+  "images": "https://images.pokemontcg.io/base1/64_hires.png"
+}
