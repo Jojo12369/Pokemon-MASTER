@@ -3,5 +3,6 @@
   "nom": "Pokémon Breeder",
   "supertype": "Trainer",
   "rarete": "Rare",
+  "number": "76",
   "images": "https://images.pokemontcg.io/base1/76_hires.png"
 }

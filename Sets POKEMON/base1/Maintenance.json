@@ -3,5 +3,6 @@
   "nom": "Maintenance",
   "supertype": "Trainer",
   "rarete": "Uncommon",
+  "number": "83",
   "images": "https://images.pokemontcg.io/base1/83_hires.png"
 }

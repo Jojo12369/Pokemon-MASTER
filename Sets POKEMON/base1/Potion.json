@@ -3,5 +3,6 @@
   "nom": "Potion",
   "supertype": "Trainer",
   "rarete": "Common",
+  "number": "94",
   "images": "https://images.pokemontcg.io/base1/94_hires.png"
 }

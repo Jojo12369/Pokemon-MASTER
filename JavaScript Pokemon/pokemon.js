@@ -67,6 +67,7 @@ fetch(set_de_base)
                         supertype: carte.supertype, // Exemple : "Pokémon", "Trainer", etc.
                         subtypes: carte.subtypes, // Exemple : ["Basic"]
                         rarete: carte.rarity,
+                        number: carte.number,
                         images: carte.images.large, // Lien vers l'image large
                     }
 

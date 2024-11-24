@@ -3,5 +3,6 @@
   "nom": "Item Finder",
   "supertype": "Trainer",
   "rarete": "Rare",
+  "number": "74",
   "images": "https://images.pokemontcg.io/base1/74_hires.png"
 }

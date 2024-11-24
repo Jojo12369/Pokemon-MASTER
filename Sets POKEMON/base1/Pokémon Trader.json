@@ -3,5 +3,6 @@
   "nom": "Pokémon Trader",
   "supertype": "Trainer",
   "rarete": "Rare",
+  "number": "77",
   "images": "https://images.pokemontcg.io/base1/77_hires.png"
 }

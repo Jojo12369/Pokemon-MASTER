@@ -3,5 +3,6 @@
   "nom": "Defender",
   "supertype": "Trainer",
   "rarete": "Uncommon",
+  "number": "80",
   "images": "https://images.pokemontcg.io/base1/80_hires.png"
 }

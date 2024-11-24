@@ -3,5 +3,6 @@
   "nom": "Super Potion",
   "supertype": "Trainer",
   "rarete": "Uncommon",
+  "number": "90",
   "images": "https://images.pokemontcg.io/base1/90_hires.png"
 }

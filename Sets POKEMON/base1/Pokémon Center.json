@@ -3,5 +3,6 @@
   "nom": "Pokémon Center",
   "supertype": "Trainer",
   "rarete": "Uncommon",
+  "number": "85",
   "images": "https://images.pokemontcg.io/base1/85_hires.png"
 }

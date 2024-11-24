@@ -3,5 +3,6 @@
   "nom": "Professor Oak",
   "supertype": "Trainer",
   "rarete": "Uncommon",
+  "number": "88",
   "images": "https://images.pokemontcg.io/base1/88_hires.png"
 }

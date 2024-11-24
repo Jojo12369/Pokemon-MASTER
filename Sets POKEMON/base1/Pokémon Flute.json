@@ -3,5 +3,6 @@
   "nom": "Pokémon Flute",
   "supertype": "Trainer",
   "rarete": "Uncommon",
+  "number": "86",
   "images": "https://images.pokemontcg.io/base1/86_hires.png"
 }

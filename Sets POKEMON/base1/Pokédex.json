@@ -3,5 +3,6 @@
   "nom": "Pokédex",
   "supertype": "Trainer",
   "rarete": "Uncommon",
+  "number": "87",
   "images": "https://images.pokemontcg.io/base1/87_hires.png"
 }

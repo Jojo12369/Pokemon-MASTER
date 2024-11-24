@@ -13,11 +13,15 @@ export function base1() {
         let rare = data.rare
         let rareHolo = data.rareHolo
 
+        // Ce code gère la partie collection des cartes
+        let liste_cartes = []
+
         // Ce code gère les energies
         let liste_energies = []
         for (let e = 0; e < 2; e++) {
             let random_energie = Math.floor(Math.random() * energies.length)
             liste_energies.push(energies[random_energie])
+            liste_cartes.push(energies[random_energie])
             energies.splice(random_energie, 1)
         }
 
@@ -26,6 +30,7 @@ export function base1() {
         for (let c = 0; c < 5; c++) {
             let random_common = Math.floor(Math.random() * common.length)
             liste_common.push(common[random_common])
+            liste_cartes.push(common[random_common])
             common.splice(random_common, 1)
         }
 
@@ -34,6 +39,7 @@ export function base1() {
         for (let u = 0; u < 3; u++) {
             let random_uncommon = Math.floor(Math.random() * uncommon.length)
             liste_uncommon.push(uncommon[random_uncommon])
+            liste_cartes.push(uncommon[random_uncommon])
             uncommon.splice(random_uncommon, 1)
         }
 
@@ -50,6 +56,7 @@ export function base1() {
         rareHolo.splice(random_rareHolo, 1)
 
         random_rareHolo = Math.floor(Math.random() * liste_rare.length)
+        liste_cartes.push(liste_rare[random_rareHolo])
         let rare_carte = liste_rare[random_rareHolo]
 
         // Générer le code du booster avec l'image récupérée
@@ -75,5 +82,42 @@ export function base1() {
         document.getElementById("open_booster").innerHTML = booster_code
 
         booster_animation()
+
+        for (let j = 0; j < liste_cartes.length; j++) {
+            fetch("../Sets infos/base1/base1.json")
+                .then(response => response.json())
+                .then(data => {
+                    let total = data.data.total
+                    for (let i = 0; i < total; i++) {
+                        fetch("../Sets infos/base1/base1_pokemon.json")
+                            .then(response => response.json())
+                            .then(data => {
+                                fetch(`../Sets POKEMON/base1/${data[i]}`)
+                                    .then(response => response.json())
+                                    .then(data => {
+                                        let number = data.number
+                                        let id_doc = document.getElementById(`${number}`)
+
+                                        if (liste_cartes[j] == data.images) {
+                                            id_doc.innerHTML = `<img class="collection" src="https://images.pokemontcg.io/base1/${number}_hires.png" alt="">`
+
+                                            let id_nb = document.getElementById(`c-${number}`)
+                                            
+                                            // Récupère la valeur actuelle de l'élément
+                                            let currentValue = parseInt(id_nb.innerHTML, 10);
+
+                                            // Si currentValue n'est pas un nombre valide, on le réinitialise à 0
+                                            if (isNaN(currentValue)) {
+                                                currentValue = 0;
+                                            }
+
+                                            // Augmente la valeur de 1
+                                            id_nb.innerHTML = currentValue + 1;
+                                        }
+                                    })
+                            })
+                    }
+                })
+        }
     })
 }

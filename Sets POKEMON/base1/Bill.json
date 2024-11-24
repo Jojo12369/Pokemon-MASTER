@@ -3,5 +3,6 @@
   "nom": "Bill",
   "supertype": "Trainer",
   "rarete": "Common",
+  "number": "91",
   "images": "https://images.pokemontcg.io/base1/91_hires.png"
 }
